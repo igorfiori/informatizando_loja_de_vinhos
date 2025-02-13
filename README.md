@@ -1,9 +1,7 @@
 # 🍷 Informatizando Loja de Vinhos
 
-Este projeto consiste na criação e gestão de um **banco de dados relacional** para uma loja de vinhos, incluindo informações sobre **vinícolas, vinhos e regiões vinícolas**.
-
 Desenvolvido para fins acadêmicos e de aprendizado sobre modelagem e gestão de banco de dados.
-
+Este projeto consiste na criação e gestão de um **banco de dados relacional** para uma loja de vinhos, incluindo informações sobre **vinícolas, vinhos e regiões vinícolas**.
 
 ## 📌 Funcionalidades
 
