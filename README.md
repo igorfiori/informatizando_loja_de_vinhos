@@ -4,7 +4,7 @@ Este projeto consiste na criação e gestão de um **banco de dados relacional**
 
 ## 📌 Funcionalidades
 
-- 📂 **Criação do banco de dados `vinciola_somativa_02`**
+- 📂 **Criação do banco de dados `vinicula_bd`**
 - 🏭 **Gerenciamento de Vinícolas**
 - 🍷 **Cadastro e consulta de vinhos**
 - 🌍 **Registro de regiões vinícolas**
