@@ -59,9 +59,6 @@ Este projeto consiste na criação e gestão de um **banco de dados relacional**
 
 Para listar os **vinhos**, suas respectivas **vinícolas** e **regiões**:
 
-## 📌 Desenvolvido para fins acadêmicos e de aprendizado sobre modelagem e gestão de banco de dados.
-Se tiver alguma dúvida, fique à vontade para contribuir! 🍷✨
-
 ```sql
 
 SELECT 
