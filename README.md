@@ -59,6 +59,9 @@ Este projeto consiste na criação e gestão de um **banco de dados relacional**
 
 Para listar os **vinhos**, suas respectivas **vinícolas** e **regiões**:
 
+## 📌 Desenvolvido para fins acadêmicos e de aprendizado sobre modelagem e gestão de banco de dados.
+Se tiver alguma dúvida, fique à vontade para contribuir! 🍷✨
+
 ```sql
 
 SELECT 
@@ -71,10 +74,5 @@ FROM
 INNER JOIN 
     Vinicola vi ON v.Vinicola_idVinicola = vi.idVinicola
 INNER JOIN 
-    Regiao r ON vi.Regiao_idRegiao = r.idRegiao;
-🚀 Como Utilizar
-Execute o script SQL no seu banco de dados MySQL.
-Utilize o usuário Sommelier para consultas limitadas.
-Execute a consulta SQL acima para visualizar a relação entre vinhos, vinícolas e regiões.
-📌 Desenvolvido para fins acadêmicos e de aprendizado sobre modelagem e gestão de banco de dados.
-Se tiver alguma dúvida, fique à vontade para contribuir! 🍷✨
+    Regiao r ON vi.Regiao_idRegiao = r.idRegiao;´´´
+
